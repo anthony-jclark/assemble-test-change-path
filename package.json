@@ -1,0 +1,23 @@
+{
+  "name": "assemble-test-change-path",
+  "version": "0.0.1",
+  "description": "Testing a plug-in that changes a file's path.",
+  "main": "assemblefile.js",
+  "scripts": {
+    "test": "assemble"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthony-jclark/assemble-test-change-path.git"
+  },
+  "keywords": [
+    "assemble",
+    "test"
+  ],
+  "author": "AJC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthony-jclark/assemble-test-change-path/issues"
+  },
+  "homepage": "https://github.com/anthony-jclark/assemble-test-change-path#readme"
+}
